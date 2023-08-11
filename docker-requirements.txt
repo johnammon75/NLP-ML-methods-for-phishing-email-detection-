@@ -1,0 +1,7 @@
+flask
+pandas
+scipy
+scikit-learn
+numpy
+nltk
+gensim
